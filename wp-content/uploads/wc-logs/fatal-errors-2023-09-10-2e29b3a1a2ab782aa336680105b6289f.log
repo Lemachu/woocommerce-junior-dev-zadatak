@@ -1,0 +1,8 @@
+2023-09-10T10:54:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_slider_sekcija() in F:\xampp\htdocs\wp-lema\wp-content\themes\dw-alema\page.php:22
+Stack trace:
+#0 F:\xampp\htdocs\wp-lema\wp-includes\template-loader.php(106): include()
+#1 F:\xampp\htdocs\wp-lema\wp-blog-header.php(19): require_once('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\wp-lema\index.php(17): require('F:\\xampp\\htdocs...')
+#3 {main}
+  thrown in F:\xampp\htdocs\wp-lema\wp-content\themes\dw-alema\page.php on line 22
+
